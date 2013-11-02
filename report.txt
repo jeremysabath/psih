@@ -1,0 +1,28 @@
+Report
+    DateTime
+    Location
+        Weather
+    Victim
+        Description
+            Gender
+            Race
+            Height
+            Weight
+            Scars/marks/tattoos
+    Accused
+        Description
+    Witness
+        Description
+    Incident
+        Type    
+            Robbery / Assault / Rape
+        Injury
+            How bad
+        Threat
+            Yes/No
+        Location
+            Same as report location/ different
+        Evidence
+            Photos
+            Car description
+
